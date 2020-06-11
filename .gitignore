@@ -1,5 +1,4 @@
 *.iml
 .idea/
 coverage
-lib/
 node_modules/
